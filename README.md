@@ -14,7 +14,7 @@ A clean and simple weather application that provides real-time weather updates. 
 
 ## Tech Stack
 
-- **Frontend:** [Python]
+- **Language:** [Python]
 - **API:** OpenWeather API
 
 ### Prerequisites
