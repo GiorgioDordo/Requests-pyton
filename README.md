@@ -1,4 +1,4 @@
-# WEATHER APP
+# CLI WEATHER APP
 
 A clean and simple weather application that provides real-time weather updates. Built using [Python] and [OpenWeather API](https://openweathermap.org/).
 
